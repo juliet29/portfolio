@@ -1,0 +1,7 @@
+@import 'src/styles/base.scss';
+
+.home {
+    @extend %fullscreen;
+    @extend %centered;
+    background-color: lavender;    
+}

@@ -1,0 +1,7 @@
+@import 'src/styles/base.scss';
+
+.portfolio {
+    @extend %fullscreen;
+    @extend %centered;
+    background-color: pink;   
+}

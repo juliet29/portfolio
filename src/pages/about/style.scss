@@ -1,0 +1,7 @@
+@import 'src/styles/base.scss';
+
+.about {
+    @extend %fullscreen;
+    @extend %centered;
+    background-color: turquoise;   
+}
